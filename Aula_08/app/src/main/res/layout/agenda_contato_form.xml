@@ -100,11 +100,11 @@
         android:text="Gravar" />
 
     <Button
-        android:id="@+id/btn_pesquisar"
+        android:id="@+id/btn_listar"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="bottom|end"
         android:layout_marginRight="30dp"
         android:layout_marginBottom="50dp"
-        android:text="Pesquisar" />
+        android:text="Listar" />
 </FrameLayout>
